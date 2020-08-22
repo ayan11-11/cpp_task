@@ -5,7 +5,7 @@ csvfile_1h="../script/XBTUSD-1h-data.csv"
 csvfile_5m="../script/XBTUSD-5m-data.csv"
 csvfile_1m="../script/XBTUSD-1m-data.csv"
 
-con = sqlite3.connect("/home/raavan/Desktop/bitmex_data/database/bitmexData.db")
+con = sqlite3.connect("bitmexData.db")
 
 df = pandas.read_csv(csvfile_1d)
 df.to_sql("bitmex_1d_data", con, if_exists='append', index=False)
