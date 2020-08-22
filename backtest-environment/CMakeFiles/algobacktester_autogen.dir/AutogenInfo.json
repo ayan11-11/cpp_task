@@ -1,0 +1,171 @@
+{
+	"BUILD_DIR" : "/home/raavan/Desktop/ranit_task/backtest-environment/algobacktester_autogen",
+	"CMAKE_BINARY_DIR" : "/home/raavan/Desktop/ranit_task/backtest-environment",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/raavan/Desktop/ranit_task/backtest-environment",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/raavan/Desktop/ranit_task/backtest-environment",
+	"CMAKE_EXECUTABLE" : "/usr/bin/cmake",
+	"CMAKE_SOURCE_DIR" : "/home/raavan/Desktop/ranit_task/backtest-environment",
+	"HEADERS" : 
+	[
+		[
+			"/home/raavan/Desktop/ranit_task/backtest-environment/DataHandling/MarketDataFrame.hpp",
+			"MU",
+			"5CPYY5I3HI/moc_MarketDataFrame.cpp"
+		],
+		[
+			"/home/raavan/Desktop/ranit_task/backtest-environment/DataHandling/YahooFinanceCSVReader.hpp",
+			"MU",
+			"5CPYY5I3HI/moc_YahooFinanceCSVReader.cpp"
+		],
+		[
+			"/home/raavan/Desktop/ranit_task/backtest-environment/Graphics/gnuplotter.hpp",
+			"MU",
+			"RL6Q3XWYR2/moc_gnuplotter.cpp"
+		],
+		[
+			"/home/raavan/Desktop/ranit_task/backtest-environment/Graphics/montecarlo.hpp",
+			"MU",
+			"RL6Q3XWYR2/moc_montecarlo.cpp"
+		],
+		[
+			"/home/raavan/Desktop/ranit_task/backtest-environment/Graphics/qtwindow.hpp",
+			"MU",
+			"RL6Q3XWYR2/moc_qtwindow.cpp"
+		],
+		[
+			"/home/raavan/Desktop/ranit_task/backtest-environment/Infrastructure/data.hpp",
+			"MU",
+			"BIA7FUK3XI/moc_data.cpp"
+		],
+		[
+			"/home/raavan/Desktop/ranit_task/backtest-environment/Infrastructure/events.hpp",
+			"MU",
+			"BIA7FUK3XI/moc_events.cpp"
+		],
+		[
+			"/home/raavan/Desktop/ranit_task/backtest-environment/Infrastructure/execution.hpp",
+			"MU",
+			"BIA7FUK3XI/moc_execution.cpp"
+		],
+		[
+			"/home/raavan/Desktop/ranit_task/backtest-environment/Infrastructure/interface.hpp",
+			"MU",
+			"BIA7FUK3XI/moc_interface.cpp"
+		],
+		[
+			"/home/raavan/Desktop/ranit_task/backtest-environment/Infrastructure/portfolio.hpp",
+			"MU",
+			"BIA7FUK3XI/moc_portfolio.cpp"
+		]
+	],
+	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
+	"INCLUDE_DIR" : "/home/raavan/Desktop/ranit_task/backtest-environment/algobacktester_autogen/include",
+	"MOC_COMPILATION_FILE" : "/home/raavan/Desktop/ranit_task/backtest-environment/algobacktester_autogen/mocs_compilation.cpp",
+	"MOC_DEFINITIONS" : [ "QT_CORE_LIB", "QT_GUI_LIB", "QT_NO_DEBUG", "QT_WIDGETS_LIB" ],
+	"MOC_DEPEND_FILTERS" : 
+	[
+		[
+			"Q_PLUGIN_METADATA",
+			"[\n][ \t]*Q_PLUGIN_METADATA[ \t]*\\([^\\)]*FILE[ \t]*\"([^\"]+)\""
+		]
+	],
+	"MOC_INCLUDES" : 
+	[
+		"/home/raavan/Desktop/ranit_task/backtest-environment",
+		"/home/raavan/Desktop/ranit_task/backtest-environment/algobacktester",
+		"/usr/lib/x86_64-linux-gnu/libgsl.so",
+		"/usr/lib/x86_64-linux-gnu/libgslcblas.so",
+		"/home/raavan/Desktop/ranit_task/backtest-environment/domain",
+		"/home/raavan/Desktop/ranit_task/backtest-environment/calc",
+		"/usr/include/x86_64-linux-gnu/qt5",
+		"/usr/include/x86_64-linux-gnu/qt5/QtWidgets",
+		"/usr/include/x86_64-linux-gnu/qt5/QtGui",
+		"/usr/include/x86_64-linux-gnu/qt5/QtCore",
+		"/usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++",
+		"/usr/include",
+		"/usr/include/x86_64-linux-gnu",
+		"/usr/include/c++/9",
+		"/usr/include/x86_64-linux-gnu/c++/9",
+		"/usr/include/c++/9/backward",
+		"/usr/lib/gcc/x86_64-linux-gnu/9/include",
+		"/usr/local/include"
+	],
+	"MOC_MACRO_NAMES" : [ "Q_OBJECT", "Q_GADGET", "Q_NAMESPACE" ],
+	"MOC_OPTIONS" : [],
+	"MOC_PATH_PREFIX" : true,
+	"MOC_PREDEFS_CMD" : 
+	[
+		"/usr/bin/c++",
+		"-dM",
+		"-E",
+		"-c",
+		"/usr/share/cmake-3.16/Modules/CMakeCXXCompilerABI.cpp"
+	],
+	"MOC_PREDEFS_FILE" : "/home/raavan/Desktop/ranit_task/backtest-environment/algobacktester_autogen/moc_predefs.h",
+	"MOC_RELAXED_MODE" : false,
+	"MOC_SKIP" : [],
+	"MULTI_CONFIG" : false,
+	"PARALLEL" : 2,
+	"PARSE_CACHE_FILE" : "/home/raavan/Desktop/ranit_task/backtest-environment/CMakeFiles/algobacktester_autogen.dir/ParseCache.txt",
+	"QT_MOC_EXECUTABLE" : "/usr/lib/qt5/bin/moc",
+	"QT_UIC_EXECUTABLE" : "/usr/lib/qt5/bin/uic",
+	"QT_VERSION_MAJOR" : 5,
+	"SETTINGS_FILE" : "/home/raavan/Desktop/ranit_task/backtest-environment/CMakeFiles/algobacktester_autogen.dir/AutogenUsed.txt",
+	"SOURCES" : 
+	[
+		[
+			"/home/raavan/Desktop/ranit_task/backtest-environment/DataHandling/MarketDataFrame.cpp",
+			"MU"
+		],
+		[
+			"/home/raavan/Desktop/ranit_task/backtest-environment/DataHandling/YahooFinanceCSVReader.cpp",
+			"MU"
+		],
+		[
+			"/home/raavan/Desktop/ranit_task/backtest-environment/Graphics/gnuplotter.cpp",
+			"MU"
+		],
+		[
+			"/home/raavan/Desktop/ranit_task/backtest-environment/Graphics/montecarlo.cpp",
+			"MU"
+		],
+		[
+			"/home/raavan/Desktop/ranit_task/backtest-environment/Graphics/qtwindow.cpp",
+			"MU"
+		],
+		[
+			"/home/raavan/Desktop/ranit_task/backtest-environment/Infrastructure/data.cpp",
+			"MU"
+		],
+		[
+			"/home/raavan/Desktop/ranit_task/backtest-environment/Infrastructure/events.cpp",
+			"MU"
+		],
+		[
+			"/home/raavan/Desktop/ranit_task/backtest-environment/Infrastructure/execution.cpp",
+			"MU"
+		],
+		[
+			"/home/raavan/Desktop/ranit_task/backtest-environment/Infrastructure/interface.cpp",
+			"MU"
+		],
+		[
+			"/home/raavan/Desktop/ranit_task/backtest-environment/Infrastructure/portfolio.cpp",
+			"MU"
+		],
+		[
+			"/home/raavan/Desktop/ranit_task/backtest-environment/Strategies/benchmark.cpp",
+			"MU"
+		],
+		[
+			"/home/raavan/Desktop/ranit_task/backtest-environment/Strategies/mainstrategy.cpp",
+			"MU"
+		],
+		[ "/home/raavan/Desktop/ranit_task/backtest-environment/main.cpp", "MU" ]
+	],
+	"UIC_OPTIONS" : [],
+	"UIC_SEARCH_PATHS" : [],
+	"UIC_SKIP" : [],
+	"UIC_UI_FILES" : [],
+	"VERBOSITY" : 0
+}

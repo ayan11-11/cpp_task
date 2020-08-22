@@ -1,0 +1,4 @@
+/home/raavan/Desktop/ranit_task/backtest-environment/CMakeFiles/rebuild_cache.dir
+/home/raavan/Desktop/ranit_task/backtest-environment/CMakeFiles/edit_cache.dir
+/home/raavan/Desktop/ranit_task/backtest-environment/CMakeFiles/algobacktester.dir
+/home/raavan/Desktop/ranit_task/backtest-environment/CMakeFiles/algobacktester_autogen.dir
